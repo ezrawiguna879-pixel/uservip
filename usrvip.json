@@ -12,13 +12,7 @@
         "password": "pass456",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "9bb01cef9b427022",
-        "username": "kenzo2",
-        "password": "key456",
-        "expirydate": "06-06-2026",
-        "Allowoffline": false           
-]       
+    }
+]
 
         
